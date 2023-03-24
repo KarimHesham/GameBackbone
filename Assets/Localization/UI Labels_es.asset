@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Labels_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 145733e1dbaa1f64ba9c2df011edfba1, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 174536634368
+    m_Localized: Connecting... - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 368066015232
+    m_Localized: Connection Failed! Please try again - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 709549469696
+    m_Localized: Retry - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 891678732288
+    m_Localized: A new app version is available, Please update your app - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1134801563648
+    m_Localized: Update - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1240095371264
+    m_Localized: Cancel - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1358244720640
+    m_Localized: Updating... - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1489622904832
+    m_Localized: A new asset bundle is available - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1641729339392
+    m_Localized: Download - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1780439166976
+    m_Localized: Downloading... - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1889558179840
+    m_Localized: Proceed - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2111566884864
+    m_Localized: Main Scene - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2329054130176
+    m_Localized: Test Asset Bundle - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2572290207744
+    m_Localized: Settings - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2663939944448
+    m_Localized: Support - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2751911276544
+    m_Localized: Inventory - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2995076050944
+    m_Localized: Shop - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3092065136640
+    m_Localized: Events - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3169932390400
+    m_Localized: Offers - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3241952784384
+    m_Localized: Daily Shop - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3330486153216
+    m_Localized: Battle Pass - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3428347654144
+    m_Localized: View Ads - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3566491250688
+    m_Localized: Missions - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3640449413120
+    m_Localized: Inbox - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3729968443392
+    m_Localized: Club - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3817209966592
+    m_Localized: Map - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3892338339840
+    m_Localized: Leaderboard - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3984680136704
+    m_Localized: Alliance - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4053907124224
+    m_Localized: Profile - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4502521491456
+    m_Localized: Settings Scene- es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4963852988416
+    m_Localized: Sounds - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5049249017856
+    m_Localized: Notifications - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5132157825024
+    m_Localized: Language - es
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8330054578176
+    m_Localized: Skip - es
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

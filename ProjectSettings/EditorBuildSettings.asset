@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash.unity
+    guid: 4722e668176a32041bbe9e7c28525fe6
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: 2d46beab3d93b0144a30c76b152ef889
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 2e898379bf85bbc46a636ddda83f4618
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: d1d9e6c7ec5156b4f88a78b93047b8bf
+  - enabled: 1
+    path: Assets/Scenes/Test Asset Bundle.unity
+    guid: 3d2b63c79a30b354997e6b3566e82ef3
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: e786ade420d7b8b4aac04a4a99d0be06
+  - enabled: 1
+    path: Assets/Scenes/Support.unity
+    guid: 3a4ae5e784becdb409c54bf5db38ee43
+  - enabled: 1
+    path: Assets/Scenes/Inventory.unity
+    guid: 7c75782c4aceadb4eb77dcde1b2252b5
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 139d7fef520a8894182a542efea0ec05
+  - enabled: 1
+    path: Assets/Scenes/Events.unity
+    guid: 9b067de38ffe0b84eb33adf430e25848
+  - enabled: 1
+    path: Assets/Scenes/Offers.unity
+    guid: 801bbb4e7c084ae4bb0e0554d438bfac
+  - enabled: 1
+    path: Assets/Scenes/Daily Shop.unity
+    guid: 8e53a81b5b974d34497731587e9ee763
+  - enabled: 1
+    path: Assets/Scenes/Battle Pass.unity
+    guid: 084aa3d2343150d429f09bb1b197fc1e
+  - enabled: 1
+    path: Assets/Scenes/View Ads.unity
+    guid: 1218697dce114fc43b4556d3d5a4e285
+  - enabled: 1
+    path: Assets/Scenes/Missions.unity
+    guid: 75079843394007642b07a1f018cb7064
+  - enabled: 1
+    path: Assets/Scenes/Inbox.unity
+    guid: cbaeee8f64532094fb22b7e32c2fca48
+  - enabled: 1
+    path: Assets/Scenes/Club.unity
+    guid: e9174ab6488a7ee46b5cef8d4744fbce
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: 8bfce085773b31b40ab759f1d0f6302a
+  - enabled: 1
+    path: Assets/Scenes/Leaderboard.unity
+    guid: 524d4bb5023b08e4bab51c24acc67ab7
+  - enabled: 1
+    path: Assets/Scenes/Alliance.unity
+    guid: 77da73212e2c5074aa46a72cc2e94a6e
+  - enabled: 1
+    path: Assets/Scenes/Profile.unity
+    guid: 1a3043459b528c4409f08e82e2f9db51
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: c4da5f1596f71704cbbc5bb786665a64, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 3b9089ba0a87b914ca3f477cb42e43bf, type: 2}
